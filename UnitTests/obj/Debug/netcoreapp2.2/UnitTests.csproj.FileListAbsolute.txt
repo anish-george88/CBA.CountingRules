@@ -1,0 +1,49 @@
+G:\Anish G\Learning\MyProject\UnitTests\obj\Debug\netcoreapp2.2\UnitTests.csprojAssemblyReference.cache
+G:\Anish G\Learning\MyProject\UnitTests\obj\Debug\netcoreapp2.2\UnitTests.csproj.CoreCompileInputs.cache
+G:\Anish G\Learning\MyProject\UnitTests\obj\Debug\netcoreapp2.2\UnitTests.AssemblyInfoInputs.cache
+G:\Anish G\Learning\MyProject\UnitTests\obj\Debug\netcoreapp2.2\UnitTests.AssemblyInfo.cs
+G:\Anish G\Learning\MyProject\UnitTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+G:\Anish G\Learning\MyProject\UnitTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+G:\Anish G\Learning\MyProject\UnitTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+G:\Anish G\Learning\MyProject\UnitTests\bin\Debug\netcoreapp2.2\UnitTests.deps.json
+G:\Anish G\Learning\MyProject\UnitTests\bin\Debug\netcoreapp2.2\UnitTests.runtimeconfig.json
+G:\Anish G\Learning\MyProject\UnitTests\bin\Debug\netcoreapp2.2\UnitTests.runtimeconfig.dev.json
+G:\Anish G\Learning\MyProject\UnitTests\bin\Debug\netcoreapp2.2\UnitTests.dll
+G:\Anish G\Learning\MyProject\UnitTests\bin\Debug\netcoreapp2.2\UnitTests.pdb
+G:\Anish G\Learning\MyProject\UnitTests\bin\Debug\netcoreapp2.2\Services.dll
+G:\Anish G\Learning\MyProject\UnitTests\bin\Debug\netcoreapp2.2\Services.pdb
+G:\Anish G\Learning\MyProject\UnitTests\obj\Debug\netcoreapp2.2\UnitTests.csproj.CopyComplete
+G:\Anish G\Learning\MyProject\UnitTests\obj\Debug\netcoreapp2.2\UnitTests.dll
+G:\Anish G\Learning\MyProject\UnitTests\obj\Debug\netcoreapp2.2\UnitTests.pdb
+E:\Learning\MyProject\UnitTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Learning\MyProject\UnitTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Learning\MyProject\UnitTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Learning\MyProject\UnitTests\bin\Debug\netcoreapp2.2\UnitTests.deps.json
+E:\Learning\MyProject\UnitTests\bin\Debug\netcoreapp2.2\UnitTests.runtimeconfig.json
+E:\Learning\MyProject\UnitTests\bin\Debug\netcoreapp2.2\UnitTests.runtimeconfig.dev.json
+E:\Learning\MyProject\UnitTests\bin\Debug\netcoreapp2.2\UnitTests.dll
+E:\Learning\MyProject\UnitTests\bin\Debug\netcoreapp2.2\UnitTests.pdb
+E:\Learning\MyProject\UnitTests\bin\Debug\netcoreapp2.2\Services.dll
+E:\Learning\MyProject\UnitTests\bin\Debug\netcoreapp2.2\Services.pdb
+E:\Learning\MyProject\UnitTests\obj\Debug\netcoreapp2.2\UnitTests.csprojResolveAssemblyReference.cache
+E:\Learning\MyProject\UnitTests\obj\Debug\netcoreapp2.2\UnitTests.csproj.CoreCompileInputs.cache
+E:\Learning\MyProject\UnitTests\obj\Debug\netcoreapp2.2\UnitTests.AssemblyInfoInputs.cache
+E:\Learning\MyProject\UnitTests\obj\Debug\netcoreapp2.2\UnitTests.AssemblyInfo.cs
+E:\Learning\MyProject\UnitTests\obj\Debug\netcoreapp2.2\UnitTests.dll
+E:\Learning\MyProject\UnitTests\obj\Debug\netcoreapp2.2\UnitTests.pdb
+E:\Learning\CBA.Project\UnitTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Learning\CBA.Project\UnitTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Learning\CBA.Project\UnitTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Learning\CBA.Project\UnitTests\bin\Debug\netcoreapp2.2\UnitTests.deps.json
+E:\Learning\CBA.Project\UnitTests\bin\Debug\netcoreapp2.2\UnitTests.runtimeconfig.json
+E:\Learning\CBA.Project\UnitTests\bin\Debug\netcoreapp2.2\UnitTests.runtimeconfig.dev.json
+E:\Learning\CBA.Project\UnitTests\bin\Debug\netcoreapp2.2\UnitTests.dll
+E:\Learning\CBA.Project\UnitTests\bin\Debug\netcoreapp2.2\UnitTests.pdb
+E:\Learning\CBA.Project\UnitTests\bin\Debug\netcoreapp2.2\Services.dll
+E:\Learning\CBA.Project\UnitTests\bin\Debug\netcoreapp2.2\Services.pdb
+E:\Learning\CBA.Project\UnitTests\obj\Debug\netcoreapp2.2\UnitTests.csprojResolveAssemblyReference.cache
+E:\Learning\CBA.Project\UnitTests\obj\Debug\netcoreapp2.2\UnitTests.csproj.CoreCompileInputs.cache
+E:\Learning\CBA.Project\UnitTests\obj\Debug\netcoreapp2.2\UnitTests.AssemblyInfoInputs.cache
+E:\Learning\CBA.Project\UnitTests\obj\Debug\netcoreapp2.2\UnitTests.AssemblyInfo.cs
+E:\Learning\CBA.Project\UnitTests\obj\Debug\netcoreapp2.2\UnitTests.dll
+E:\Learning\CBA.Project\UnitTests\obj\Debug\netcoreapp2.2\UnitTests.pdb

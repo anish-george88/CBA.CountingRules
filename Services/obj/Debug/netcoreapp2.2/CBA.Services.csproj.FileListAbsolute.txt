@@ -1,0 +1,17 @@
+E:\Learning\CBA.Project\Services\bin\Debug\netcoreapp2.2\CBA.Services.deps.json
+E:\Learning\CBA.Project\Services\bin\Debug\netcoreapp2.2\CBA.Services.dll
+E:\Learning\CBA.Project\Services\bin\Debug\netcoreapp2.2\CBA.Services.pdb
+E:\Learning\CBA.Project\Services\obj\Debug\netcoreapp2.2\CBA.Services.csproj.CoreCompileInputs.cache
+E:\Learning\CBA.Project\Services\obj\Debug\netcoreapp2.2\CBA.Services.AssemblyInfoInputs.cache
+E:\Learning\CBA.Project\Services\obj\Debug\netcoreapp2.2\CBA.Services.AssemblyInfo.cs
+E:\Learning\CBA.Project\Services\obj\Debug\netcoreapp2.2\CBA.Services.dll
+E:\Learning\CBA.Project\Services\obj\Debug\netcoreapp2.2\CBA.Services.pdb
+E:\Learning\CBA.Project\Services\obj\Debug\netcoreapp2.2\CBA.Services.csprojResolveAssemblyReference.cache
+H:\CBA.Project\Services\bin\Debug\netcoreapp2.2\CBA.Services.deps.json
+H:\CBA.Project\Services\bin\Debug\netcoreapp2.2\CBA.Services.dll
+H:\CBA.Project\Services\bin\Debug\netcoreapp2.2\CBA.Services.pdb
+H:\CBA.Project\Services\obj\Debug\netcoreapp2.2\CBA.Services.csproj.CoreCompileInputs.cache
+H:\CBA.Project\Services\obj\Debug\netcoreapp2.2\CBA.Services.AssemblyInfoInputs.cache
+H:\CBA.Project\Services\obj\Debug\netcoreapp2.2\CBA.Services.AssemblyInfo.cs
+H:\CBA.Project\Services\obj\Debug\netcoreapp2.2\CBA.Services.dll
+H:\CBA.Project\Services\obj\Debug\netcoreapp2.2\CBA.Services.pdb

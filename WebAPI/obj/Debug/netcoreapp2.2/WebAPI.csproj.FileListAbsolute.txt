@@ -1,0 +1,49 @@
+G:\Anish G\Learning\MyProject\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csprojAssemblyReference.cache
+G:\Anish G\Learning\MyProject\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csproj.CoreCompileInputs.cache
+G:\Anish G\Learning\MyProject\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cache
+G:\Anish G\Learning\MyProject\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cs
+G:\Anish G\Learning\MyProject\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfoInputs.cache
+G:\Anish G\Learning\MyProject\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfo.cs
+G:\Anish G\Learning\MyProject\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.deps.json
+G:\Anish G\Learning\MyProject\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.json
+G:\Anish G\Learning\MyProject\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.dev.json
+G:\Anish G\Learning\MyProject\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.dll
+G:\Anish G\Learning\MyProject\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.pdb
+G:\Anish G\Learning\MyProject\WebAPI\bin\Debug\netcoreapp2.2\Services.dll
+G:\Anish G\Learning\MyProject\WebAPI\bin\Debug\netcoreapp2.2\Services.pdb
+G:\Anish G\Learning\MyProject\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorTargetAssemblyInfo.cache
+G:\Anish G\Learning\MyProject\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csproj.CopyComplete
+G:\Anish G\Learning\MyProject\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.dll
+G:\Anish G\Learning\MyProject\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.pdb
+E:\Learning\MyProject\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.deps.json
+E:\Learning\MyProject\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.json
+E:\Learning\MyProject\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.dev.json
+E:\Learning\MyProject\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.dll
+E:\Learning\MyProject\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.pdb
+E:\Learning\MyProject\WebAPI\bin\Debug\netcoreapp2.2\Services.dll
+E:\Learning\MyProject\WebAPI\bin\Debug\netcoreapp2.2\Services.pdb
+E:\Learning\MyProject\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csprojResolveAssemblyReference.cache
+E:\Learning\MyProject\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csproj.CoreCompileInputs.cache
+E:\Learning\MyProject\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cache
+E:\Learning\MyProject\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cs
+E:\Learning\MyProject\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfoInputs.cache
+E:\Learning\MyProject\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfo.cs
+E:\Learning\MyProject\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorTargetAssemblyInfo.cache
+E:\Learning\MyProject\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.dll
+E:\Learning\MyProject\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.pdb
+E:\Learning\CBA.Project\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.deps.json
+E:\Learning\CBA.Project\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.json
+E:\Learning\CBA.Project\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.dev.json
+E:\Learning\CBA.Project\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.dll
+E:\Learning\CBA.Project\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.pdb
+E:\Learning\CBA.Project\WebAPI\bin\Debug\netcoreapp2.2\Services.dll
+E:\Learning\CBA.Project\WebAPI\bin\Debug\netcoreapp2.2\Services.pdb
+E:\Learning\CBA.Project\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csprojResolveAssemblyReference.cache
+E:\Learning\CBA.Project\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csproj.CoreCompileInputs.cache
+E:\Learning\CBA.Project\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cache
+E:\Learning\CBA.Project\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cs
+E:\Learning\CBA.Project\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfoInputs.cache
+E:\Learning\CBA.Project\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfo.cs
+E:\Learning\CBA.Project\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorTargetAssemblyInfo.cache
+E:\Learning\CBA.Project\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.dll
+E:\Learning\CBA.Project\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.pdb
